@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.container>div{
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    width: 170px;
+}
